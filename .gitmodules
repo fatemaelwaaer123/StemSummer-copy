@@ -1,0 +1,3 @@
+[submodule "third_party/StemSummer"]
+	path = third_party/StemSummer
+	url = git@github.com:GraysonC2/StemSummer.git
